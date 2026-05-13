@@ -96,3 +96,9 @@ I’m interested in the intersection of:
 This project is part of a broader effort to better understand how complex systems behave under stress.
 
 ---
+
+## Disclaimer
+
+This project is an independent personal learning project using publicly available data sources only.
+
+It is not affiliated with, endorsed by, or representative of my employer or any organization.
