@@ -1,5 +1,8 @@
 # ERCOT Load Stress Analysis
 
+![ERCOT Banner](ercot-banner.png)
+
+
 Exploring ERCOT hourly load dynamics using publicly available grid data and Python.
 
 This project investigates how electricity demand changes across time, how stress events reshape grid behavior, and how volatility emerges across different operational hours.
